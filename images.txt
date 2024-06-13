@@ -1,2 +1,15 @@
-jxxghp/moviepilot:latest
+ailg/alist:hostmode
+ailg/ggbond:latest
+alpine:3.18.2
+ddsderek/xiaoya-emd:latest
+emby/embyserver:4.8.0.56
+haroldli/xiaoya- tvbox:latest
+haroldli/xiaoya- tvbox:native
+iyuucn/iyuuplus-dev:latest
+jc21/nginx-proxy-manager:latest
+kodcloud/kodbox:latest
 linuxserver/qbittorrent:latest
+Iscrio/linuxserver/transmission:latest
+mariadb:10.6
+nyanmisaka/jellyfin:latest
+redis:alpine
