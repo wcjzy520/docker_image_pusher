@@ -1,3 +1,2 @@
-chishin/nginx-proxy-manager-zh:latest
-amilys/embyserver:latest
-amilys/embyserver:4.8.0.56
+jxxghp/moviepilot:latest
+linuxserver/qbittorrent:latest
