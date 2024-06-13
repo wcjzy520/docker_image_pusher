@@ -3,8 +3,8 @@ ailg/ggbond:latest
 alpine:3.18.2
 ddsderek/xiaoya-emd:latest
 emby/embyserver:4.8.0.56
-haroldli/xiaoya- tvbox:latest
-haroldli/xiaoya- tvbox:native
+haroldli/xiaoya-tvbox:latest
+haroldli/xiaoya-tvbox:native
 iyuucn/iyuuplus-dev:latest
 jc21/nginx-proxy-manager:latest
 kodcloud/kodbox:latest
